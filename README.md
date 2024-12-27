@@ -1,5 +1,6 @@
 # Note Taker
 Simple note taking app using node.js
+
 Commands available 
 
 1 Create Note
